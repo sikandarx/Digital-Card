@@ -4,8 +4,10 @@ function About(){
     return(
         <>
         <div className='heading mt-5'>About</div>
-        <div className='para'>I am a full stack web developer with a particular interest in making things simple and automating daily tasks. 
-        I try to keep up with security and best practices, and am always looking for new things to learn.</div>
+        <div className='para'>Transforming concepts into captivating online experiences. 
+        Let's bring your ideas to life with expert full stack development, 
+        creating websites that not only impress but also drive results. 
+        Your success starts here.</div>
         </>
     )
 }
